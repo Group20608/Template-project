@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/st-newyork/wdio-boilerplate.git"
+    "url": ""
   },
   "keywords": [
     "webdriver",
@@ -19,12 +19,12 @@
     "test",
     "automation"
   ],
-  "author": "Sergey Troyeglazov",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/st-newyork/wdio-boilerplate/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/st-newyork/wdio-boilerplate#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
